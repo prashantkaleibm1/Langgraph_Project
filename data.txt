@@ -1,0 +1,135 @@
+PRASHANT KALE
+
+Data Science | Analytics | AI Consultant                                                                                                                         
+
+Düsseldorf, Germany                                                                                                                                                                                                         
+Phone: +49 1525179 9332      Email: prashantkale16@gmail.com                                                                                                                                        
+
+LinkedIn: linkedin.com/in/prashant-kale-359565a                                                                                                                    
+
+PROFESSIONAL SUMMARY
+
+Data Science and AI Consultant with a strong IT foundation, delivering applied analytics,
+machine learning, and LLM-based solutions aligned with business needs.
+Experienced in end-to-end data science and full-stack application development using
+Python, SQL, Django, Node.js, and React.
+Proven ability to translate complex data into actionable insights and scalable solutions.
+
+TECHNICAL SKILLS
+
+Data Science: Exploratory Data Analysis (EDA), Statistical Analysis,
+Feature Engineering, Data Cleaning, Model Evaluation
+
+Data Analytics : Tableau
+
+Machine Learning & AI: Supervised and Unsupervised Learning,
+Prompt Engineering, Deep Learning Fundamentals
+
+Agentic AI : NLP, Large Language Models (LLMs),,Langchain,LangGraph
+
+Programming & Tools: Python, SQL, Jupyter Notebook, Google Colab, VS Code
+
+Web & Application Development: Django, Node.js, React, Vite, HTML, CSS, JavaScript
+
+Professional Skills: Data-Driven Problem Solving, Solution Design, Documentation,
+Stakeholder Communication
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant
+
+IIDST – Mumbai, India
+Feb 2025 – Oct 2025
+
+Led applied data science engagements by designing and delivering Python-based analytics and machine learning workflows aligned with real business scenarios.
+
+Built standardized EDA and ML notebooks, improving consistency and reducing onboarding time for new learners and project teams.
+
+Mentored multiple professional cohorts on data preparation, feature engineering, and model evaluation, strengthening analytical rigor and problem-solving capability.
+
+Translated complex analytical concepts into clear, stakeholder-ready insights, supporting practical adoption of data-driven decision-making.
+
+Data Science Trainer
+
+Certybox – Mumbai, India
+Jan 2024 – Jun 2024
+
+Delivered structured programs in Python, Machine Learning, Deep Learning, and AI, supporting both early-career and working professionals.
+
+Designed and supervised end-to-end data science projects, covering data ingestion, preprocessing, modeling, and performance evaluation.
+
+Enabled participants to develop deployable ML prototypes, accelerating transition from theoretical learning to applied use cases.
+
+Adapted content for online and in-person delivery, ensuring consistent learning outcomes across formats.
+
+IT Trainer
+
+Vidyalankar – Mumbai, India
+Oct 2023 – May 2024
+
+Delivered hands-on training in HTML, CSS, JavaScript, and PHP, focusing on industry-aligned web development practices.
+
+Guided learners in building functional web applications, strengthening software design, debugging, and implementation skills.
+
+Reinforced structured problem-solving and coding standards applicable to full-stack and data-driven application development.
+
+Data Science Trainer
+
+Nettech India – Mumbai, India
+Jan 2023 – Sep 2023
+
+Delivered applied instruction in Python, Machine Learning, Deep Learning, and AI using real-world datasets and case-driven examples.
+
+Coached participants on model selection, evaluation metrics, and data preprocessing, improving analytical accuracy and interpretability.
+
+Provided targeted feedback to enhance project quality, documentation, and technical communication.
+
+
+
+
+PROJECT EXPERIENCE
+
+LLM-Based Customized Chatbot
+
+    Designed and developed a custom conversational AI solution using OpenAI and Google LLM APIs.
+
+    Implemented full-stack architecture using Node.js, React, and Vite.
+
+    Demonstrated applied use of NLP, prompt engineering, and API-based AI integration for domain-  
+     specific interactions.
+
+
+
+Restaurant Web Application
+
+    Designed and deployed a Django-based web application with backend logic and database integration.
+
+    Implemented user-facing features and application workflows using Python,Javascript ,HTML ,CSS
+
+    Demonstrated end-to-end development lifecycle, from design to deployment.
+
+EDUCATION
+
+Bachelor of Engineering (B.E.)
+Mumbai University – Mumbai, India
+
+
+CERTIFICATIONS
+
+Data Science Professional
+
+Databases and SQL for Data Science with Python
+
+Scrum Master Certification
+
+
+LANGUAGES
+
+English – Full Professional Proficiency
+German – B1 Level DW Certification		
+
+
+INTERESTS
+
+Music
+
+Travel
