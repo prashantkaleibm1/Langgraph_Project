@@ -8,7 +8,7 @@ Phone: +49 1525179 9332      Email: prashantkale16@gmail.com
 LinkedIn: linkedin.com/in/prashant-kale-359565a                                                                                                                    
 
 PROFESSIONAL SUMMARY
-
+Total 25+ years experience in I.T. with experience in various Technologies.
 Data Science and AI Consultant with a strong IT foundation, delivering applied analytics,
 machine learning, and LLM-based solutions aligned with business needs.
 Experienced in end-to-end data science and full-stack application development using
@@ -88,7 +88,7 @@ Provided targeted feedback to enhance project quality, documentation, and techni
 
 PROJECT EXPERIENCE
 
-LLM-Based Customized Chatbot
+LLM,Langchain Based Customized Chatbot
 
     Designed and developed a custom conversational AI solution using OpenAI and Google LLM APIs.
 
@@ -109,8 +109,12 @@ Restaurant Web Application
 
 EDUCATION
 
-Bachelor of Engineering (B.E.)
+Bachelor of Engineering (B.E.) - 1988
 Mumbai University – Mumbai, India
+
+DATE OF BIRTH
+
+16-DEC-1965
 
 
 CERTIFICATIONS
