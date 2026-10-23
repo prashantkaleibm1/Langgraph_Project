@@ -34,7 +34,7 @@ if user_input:
 
     ai_message = response["messages"][-1].content
     # add message to the message history
-    st.session_state['message_history'].append({'role':'assistant','content':user_input})
+    st.session_state['message_history'].append({'role':'assistant','content':ai_message})
 
     with st.chat_message('assistant'):   # for displaying AI assistant icon
         st.text(ai_message)
